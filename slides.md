@@ -97,8 +97,7 @@
 
 
 ## International Standards for HCI and Usability
-- International Standards Organization (ISO) <!-- .element: class="fragment" data-fragment-index="0" -->
-- Web Content Accessibility Guidelines (WCAG) <!-- .element: class="fragment" data-fragment-index="1" -->
+- Example: International Standards Organization (ISO 9241) <!-- .element: class="fragment" data-fragment-index="0" -->
 
 
 ## Accessibility Guidelines
@@ -107,4 +106,5 @@
 
 
 ## Any thoughts on the usability of the standards themselves?
-- What can we do to increase the usability of UI standards?<!-- .element: class="fragment" data-fragment-index="0" -->
+- Why aren't they widely adopted? <!-- .element: class="fragment" data-fragment-index="0" -->
+- What can we do to increase the usability of UI standards?<!-- .element: class="fragment" data-fragment-index="1" -->
